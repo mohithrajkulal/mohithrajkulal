@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohithrajkulal)
+
 ## Hello, I'm Mohith Raj Kulal 👋
 
 <!--
