@@ -2,8 +2,7 @@
 
 ## Hello, I'm Mohith Raj Kulal 👋
 
-<!--
-**mohithrajkulal/mohithrajkulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend Engineer;Backend Enthusiast)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
