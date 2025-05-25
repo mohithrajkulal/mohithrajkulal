@@ -2,9 +2,9 @@
 
 ## Hello, I'm Mohith Raj Kulal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend Engineer;Backend Enthusiast)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend Engineer;Backend Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
