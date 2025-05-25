@@ -21,3 +21,6 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 
 ## 📊 GitHub Stats
 ![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithrajkulal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithrajkulal&layout=compact&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohithrajkulal&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohithrajkulal&theme=radical)
