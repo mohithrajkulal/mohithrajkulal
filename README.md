@@ -6,7 +6,7 @@
 
 With 3+ years of experience in frontend development, I specialize in frontend technologies and also slight experienece in backend technology. I'm passionate about crafting efficient, scalable solutions and leveraging cutting-edge technologies.
 
-## Connect with me
+## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mohithrajkulal5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithraj-kulal-a12348196/)
 
@@ -21,6 +21,8 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Thanks for stopping by! Let’s connect and build something amazing together.
 
 <!--- ## 📊 GitHub Stats
 ![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithrajkulal&show_icons=true&theme=radical)
