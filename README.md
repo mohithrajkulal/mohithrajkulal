@@ -7,8 +7,9 @@
 With 3+ years of experience in frontend development, I specialize in frontend technologies and also slight experienece in backend technology. I'm passionate about crafting efficient, scalable solutions and leveraging cutting-edge technologies.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithraj-kulal-a12348196/)
 [![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:mohithrajkulal5@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithraj-kulal-a12348196/)
 
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
