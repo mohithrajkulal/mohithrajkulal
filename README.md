@@ -22,10 +22,9 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Thanks for stopping by! Let’s connect and build something amazing together.
-
-<!--- ## 📊 GitHub Stats
-![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithrajkulal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithrajkulal&layout=compact&theme=radical)
+## 📊 GitHub Stats
+<!--- ![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithrajkulal&show_icons=true&theme=radical) --->
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohithrajkulal&theme=radical)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohithrajkulal&theme=radical) --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithrajkulal&layout=compact&theme=radical)
+
+Thanks for stopping by! Let’s connect and build something amazing together.
