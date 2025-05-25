@@ -18,3 +18,6 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithKula&show_icons=true&theme=radical)
