@@ -8,7 +8,7 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 
 ## Connect with me
 
-- 📧 Email: [mohithkulal@gmail.com](mailto:mohithrajkulal5@gmail.com)
+- 📧 Email: [mohithrajkulal5@gmail.com](mailto:mohithrajkulal5@gmail.com)
 - 💼 LinkedIn: [Mohith Kulal](https://www.linkedin.com/in/mohithraj-kulal-a12348196/)
 
 ## 🛠️ Tech Stack
