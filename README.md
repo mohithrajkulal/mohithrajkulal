@@ -20,4 +20,4 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohithKula&show_icons=true&theme=radical)
+![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithrajkulal&show_icons=true&theme=radical)
