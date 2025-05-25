@@ -2,7 +2,7 @@
 
 ## Hello, I'm Mohith Raj Kulal 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend Engineer;Backend Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Backend+Enthusiast)](https://git.io/typing-svg)
 
 <-- Here are some ideas to get you started:
 
