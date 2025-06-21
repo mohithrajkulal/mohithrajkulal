@@ -9,7 +9,7 @@ With 3+ years of experience in frontend development, I specialize in frontend te
 ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mohithrajkulal5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithraj-kulal-a12348196/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white&labelColor=000&color=000)](https://portfolio-git-master-mohithrajkulals-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white&labelColor=000&color=000)](https://mohithrajkulal.vercel.app//)
 
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
